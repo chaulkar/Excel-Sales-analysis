@@ -1,4 +1,5 @@
 # Excel-Sales-analysis
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7139238120557879296/)
 ## Sales Report :
 
 
